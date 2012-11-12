@@ -1,6 +1,6 @@
 package com.aincc.exchangecount.network;
 
-import com.aincc.lib.network.common.IPacket;
+import com.aincc.network.common.IPacket;
 
 /**
  * 

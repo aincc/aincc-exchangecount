@@ -10,7 +10,7 @@ import com.aincc.exchangecount.ExchangeCons;
 import com.aincc.exchangecount.model.KEBCurrency;
 import com.aincc.exchangecount.model.KEBExchange;
 import com.aincc.exchangecount.network.OpenBase;
-import com.aincc.lib.network.common.IPacket;
+import com.aincc.network.common.IPacket;
 
 /**
  * 

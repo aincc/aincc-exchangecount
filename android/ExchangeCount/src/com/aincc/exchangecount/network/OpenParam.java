@@ -1,6 +1,6 @@
 package com.aincc.exchangecount.network;
 
-import com.aincc.lib.network.http.HttpParam;
+import com.aincc.network.http.HttpParam;
 
 /**
  * 

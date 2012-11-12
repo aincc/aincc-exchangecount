@@ -3,10 +3,10 @@ package com.aincc.exchangecount;
 import com.aincc.exchangecount.network.OpenParam;
 import com.aincc.exchangecount.network.OpenTask;
 import com.aincc.exchangecount.openapi.OpenKEBExchange;
-import com.aincc.lib.network.NetHttpProcessor;
-import com.aincc.lib.network.common.BaseTransEx;
-import com.aincc.lib.network.common.INetworkListener;
-import com.aincc.lib.network.common.NetworkDefine;
+import com.aincc.network.NetHttpProcessor;
+import com.aincc.network.common.BaseTransEx;
+import com.aincc.network.common.INetworkListener;
+import com.aincc.network.common.NetworkDefine;
 
 /**
  * 

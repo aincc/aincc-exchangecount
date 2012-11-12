@@ -1,8 +1,8 @@
 package com.aincc.exchangecount.network;
 
-import com.aincc.lib.network.common.IPacket;
-import com.aincc.lib.network.http.HttpTrans;
-import com.aincc.lib.util.Logger;
+import com.aincc.network.common.IPacket;
+import com.aincc.network.http.HttpTrans;
+import com.aincc.util.Logger;
 
 /**
  * 
